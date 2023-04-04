@@ -1,0 +1,28 @@
+DSA: Data Structures and Algorithms
+
+A data structure is a collection of data values, the relationships among them ,and the functions or operations that
+can be applied to the data.
+
+Why we learn data structure:
+
+- Finding shortest path, google map do- Graph
+- Browser Navigation(Back and Forward) - linked list
+- Stack: Undo Operations, Browser Back Functionality
+- Queue: Key press sequence in keyboard
+- Graph: Social Networking sites
+- Tree: Folders in operating system
+
+Alorithms:
+Sequential steps for solving a problem
+
+
+Q. Reverse a string without any inbuilt function of java
+
+1. Naive Solution
+2. Optimized Solution
+
+Q. Leaders element in an array
+
+1. Brute Force Approach - Naive Approach
+2. Scan Array from Right - Optimized Approach
+
